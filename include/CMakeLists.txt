@@ -1,0 +1,3 @@
+INSTALL(FILES hello.h
+	DESTINATION include)
+
